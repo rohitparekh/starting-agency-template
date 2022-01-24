@@ -118,3 +118,134 @@ p, h1, h2, h3 {
     background-color: #1090CB;
     color: #fff;
 }
+
+/* Services section  */
+
+.service-section {
+    padding: 40px 20px;
+    border-bottom: 0.7px solid #C7C7C7;
+}
+
+.service-section .inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-section .inner .service {
+   padding-left: 10px;
+}
+
+.service-section .inner img {
+    max-width: 61px;
+}
+
+.service-section .inner h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 175%;
+    color: #000000;
+}
+
+.service-section .inner p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 175%;
+    color: #969696;
+}
+
+/* Dummy section  */
+
+.dummy-section {
+    padding: 40px 20px;
+}
+
+.dummy-section h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 160%;
+    text-align: center;
+    color: #252525;
+    padding-bottom: 15px !important;
+}
+
+.dummy-section p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 175%;
+    text-align: center;
+    color: #868686;
+}
+
+
+/* Section 1  */
+
+.section-1 {
+    padding: 40px 20px;
+}
+
+.section-1 .top-head {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.section-1 .top-head img {
+    max-width: 60px;
+}
+
+.section-1 .top-head h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.section-1 .top-head .block {
+   padding-left: 15px;
+}
+
+.section-1 .top-head h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.section-1 .top-head p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 175%;
+    color: #868686;
+}
+
+.section-1 h3 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 170%;
+    color: #252525;
+    margin-top: 28px;
+    margin-bottom: 34px !important;
+}
+
+.section-1 h3 span {
+    color: #1090CB;
+}
+
+.section-1 p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 170%;
+    color: #545454;
+}
+
+
